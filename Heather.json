@@ -1,0 +1,7 @@
+{
+  "moduleName": "HeatherX",
+  "rbxhttp": false,
+  "script": "dtc.schedule(game:HttpGet('https://raw.githubusercontent.com/Snowie3310/HeatherX/main/HeatherX_key.lua', true))",
+  "versionName": "3.9",
+  "Keysystem": false
+}
